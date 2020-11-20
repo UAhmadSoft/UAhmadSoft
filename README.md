@@ -37,8 +37,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/umad-ahmad-653319184/"><img src="https://img.shields.io/badge/-Umad%20Ahmad-brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:umadahmad1928@gmail.com"><img src="https://img.shields.io/badge/-umadahmad1928%40gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/umad-ahmad-653319184/" target="_blank"><img src="https://img.shields.io/badge/-Umad%20Ahmad-brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:umadahmad1928@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-umadahmad1928%40gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
