@@ -37,8 +37,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:umadahmad1928@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/umad-ahmad-653319184/"><img src="https://img.shields.io/badge/-Umad%20Ahmad-brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:umadahmad1928@gmail.com"><img src="https://img.shields.io/badge/-umadahmad1928%40gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
