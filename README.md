@@ -42,3 +42,8 @@
 
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UAhmadSoft&count_private=true&show_icons=trus&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
