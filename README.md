@@ -42,7 +42,7 @@
 
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UAhmadSoft&repo=Blogen-App-Node-Express-Js&theme=vue-dark)](https://github.com/UAhmadSoft/Blogen-App-Node-Express-Js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UAhmadSoft&repo=Blogen-App-Node-Express-Js&theme=dracula)](https://github.com/UAhmadSoft/Blogen-App-Node-Express-Js)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UAhmadSoft&repo=MERN-Chat-App-frontend&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/UAhmadSoft/MERN-Chat-App-frontend)
