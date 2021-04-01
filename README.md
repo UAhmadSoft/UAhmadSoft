@@ -42,6 +42,16 @@
 
 </p>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UAhmadSoft&repo=Blogen-App-Node-Express-Js&theme=vue_dark)](https://github.com/UAhmadSoft/Blogen-App-Node-Express-Js)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UAhmadSoft&repo=MERN-Chat-App-frontend&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/UAhmadSoft/MERN-Chat-App-frontend)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UAhmadSoft&repo=Color-Project-Frontend-React/&theme=cobalt)](https://github.com/UAhmadSoft/Color-Project-Frontend-React/)
+
+
+
 ### [UAhmadSoft's Github Stats](https://github.com/UAhmadSoft/my-github-stats)
 
 <a href="https://github.com/UAhmadSoft/my-github-stats">
