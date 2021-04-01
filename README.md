@@ -42,9 +42,15 @@
 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UAhmadSoft&count_private=true&show_icons=trus&theme=cobalt)](https://github.com/UAhmadSoft)
+### [UAhmadSoft's Github Stats](https://github.com/UAhmadSoft/my-github-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UAhmadSoft)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/UAhmadSoft/my-github-stats">
+
+![](https://github.com/UAhmadSoft/my-github-stats/blob/master/generated/overview.svg)
+![](https://github.com/UAhmadSoft/my-github-stats/blob/master/generated/languages.svg)
+
+</a>
+
 
 
 
