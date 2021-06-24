@@ -55,6 +55,13 @@
 
 ### [UAhmadSoft's Github Stats](https://github.com/UAhmadSoft/my-github-stats)
 
+## Contribution Graph
+
+[![UAhmadSoft's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uAhmadSoft&theme=react-dark	)](https://github.com/uahmadsoft)
+
+ 
+ <br>
+
 <a href="https://github.com/UAhmadSoft/my-github-stats">
 
 ![](https://github.com/UAhmadSoft/my-github-stats/blob/master/generated/overview.svg)
@@ -62,6 +69,8 @@
 
 </a>
 
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=uahmadsoft&show_icons=true&locale=en&layout=demo&theme=chartreuse-dark&hide_border=true" />
 
 
 
